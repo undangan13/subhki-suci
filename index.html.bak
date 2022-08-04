@@ -18,7 +18,7 @@
     <!-- <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="/style.css">
     <!-- <link href="/dist/output.css" rel="stylesheet"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
@@ -80,8 +80,8 @@
 
             <div class=" font-gilroy_light isolate bg-white bg-opacity-75 rounded-lg w-11/12 h-100 lg:rounded-3xl ml-[-20] mt-[-30] h-25 flex items-strech justify-center">
                 <div class="isolate mr-[-50]  grid grid-rows-3 items-center justify-contet-center">
-                    <label class=" text-[15px] align-middle justify-self-center text-sm sm:text-lg md:text-2xl lg:text-4xl font-medium">The Wedding Of</label>
-                    <label style="font-family: Great-Vibes;" class="  justify-self-center text-3xl sm:text-4xl md:text-5xl lg:text-9xl m-0">Suci & Subhki</label>
+                    <label class=" text-[15px] align-middle justify-self-center text-sm sm:text-lg md:text-2xl lg:text-4xl font-medium">The Wedding Off</label>
+                    <label style="font-family: Great-Vibes;" class="  justify-self-center text-3xl sm:text-4xl md:text-5xl lg:text-9xl m-0">Suci & Subhan</label>
                     <label class=" justify-self-center text-xs sm:text-sm md:text-md lg:text-4xl text-black font-medium">6 Agusutus 2022</label>
                 </div>
 
